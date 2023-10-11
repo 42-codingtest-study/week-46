@@ -120,7 +120,7 @@
 ## 제출하기
 과제를 다 푸셨다면 제출을 해주시면 됩니다. 제출 시 우리는 **Pull Request** 방법을 사용할 겁니다.
 
-1. 웹에서 https://github.com/42-codingtest-study/week-45 창을 켭니다.
+1. 웹에서 https://github.com/42-codingtest-study/week-46 창을 켭니다.
 2. 메뉴에서 Pull requests를 눌러줍니다.
 3. 오른쪽에 New pull request 클릭 !
 4. base:main <- compare:main 으로 되어있다면 compare 항목 눌러서 **자신의 브랜치로 변경**
